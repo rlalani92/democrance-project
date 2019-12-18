@@ -1,4 +1,4 @@
-#Democrance Test Application
+Democrance Test Application
 
 ### Prerequisites
 
