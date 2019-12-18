@@ -28,9 +28,3 @@ http://localhost:54274/swagger-ui.html
 
 * [Maven](https://maven.apache.org/) - Dependency Management
 
-## Improvement
-
-```
-We can integrate spring boot for depedency injection and management of beans
-```
-
